@@ -1,0 +1,73 @@
+.navbar-menu {
+    font-size: 30px;
+}
+
+.logo {
+    width: 1000px;
+}
+
+.seta {
+    max-width: 5px;
+    width: 100%;
+    margin: -200px auto 0px auto;
+}
+
+.titulo {
+    font-family: 'Playfair Display', serif;
+}
+
+.texto {
+    font-family: 'Poppins', sans-serif;
+}
+
+.texto2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: small;
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(241, 217, 209);
+    color: black;
+}
+
+.container {
+    margin: auto auto;
+    max-width: 1200px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    grid-column-gap: 0px;
+    grid-row-gap: 30px;
+    justify-content: center;
+    padding: 0 20px;
+}
+
+.cardapio-texto {
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+.fundo{
+    background-color: #c1caaa;
+    backgroud: #c1caaa; 
+
+}
+
+.topo {
+    display:flex;
+    justify-content:flex-end;   
+}
+
+.botao {
+    max-width: 5%;
+}
+
+.video {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.icone{
+    border-top-width: 2px;
+    margin-top: 20px;
+    width: 50%;
+    margin-left: 125px
+}
